@@ -1,0 +1,22 @@
+ open your aws
+ 
+
+ search EC2 on the  service search bar
+
+ Choose the location mumbai 
+ 
+ press launch instances 
+
+create a key pair login                                                                    
+create a security group 
+
+check the alloted storage                                                                    
+
+and lauch the instance                                                                                 
+
+
+if the commands are corret it shows instance installed succesfully 
+
+select the instanve and press connect 
+
+your VM instance is ready 
